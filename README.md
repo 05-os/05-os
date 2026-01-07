@@ -106,9 +106,9 @@ las apps se distribuyen como .sprite3 o assets compatibles
 
 se instalan desde un link directo
 
-las apps se registran internamente por su url
+las apps se registran internamente por su data.url
 
-actualmente las apps no permanecen al cerrar y abrir el projecto exportado
+actualmente las apps ya persisten a partir de la alpha 0.1.0
 
 rendimiento
 
@@ -128,17 +128,13 @@ con historial de chat limitado
 
 proximos pasos
 
-a futuro se busca hacer que las apps se reinstalen al iniciar el sistema
+la alpha 0.2.0 traera:
 
-tambien se planean mas apps, mejoras a la terminal, a tiempo, etc
+sistema de cuentas
 
-un sistema de cuentas con admin unico
+mas comandos
 
-cambiar tema (colores)
-
-mas fondos de pantalla
-
-aun mas cosas
+arreglos de bugs
 
 licencia
 
