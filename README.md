@@ -128,13 +128,9 @@ con historial de chat limitado
 
 proximos pasos
 
-la alpha 0.2.0 traera:
+la alpha 0.5.0 traera:
 
-sistema de cuentas
-
-mas comandos
-
-arreglos de bugs
+mas cosas
 
 licencia
 
